@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/InterviewWell/static/css/main.f1595baf.chunk.css",
+    "main.js": "/InterviewWell/static/js/main.acafd242.chunk.js",
+    "main.js.map": "/InterviewWell/static/js/main.acafd242.chunk.js.map",
+    "runtime-main.js": "/InterviewWell/static/js/runtime-main.8fcf61d8.js",
+    "runtime-main.js.map": "/InterviewWell/static/js/runtime-main.8fcf61d8.js.map",
+    "static/js/2.bfd517d8.chunk.js": "/InterviewWell/static/js/2.bfd517d8.chunk.js",
+    "static/js/2.bfd517d8.chunk.js.map": "/InterviewWell/static/js/2.bfd517d8.chunk.js.map",
+    "index.html": "/InterviewWell/index.html",
+    "precache-manifest.38cc171f185f363cce820812dcf0924e.js": "/InterviewWell/precache-manifest.38cc171f185f363cce820812dcf0924e.js",
+    "service-worker.js": "/InterviewWell/service-worker.js",
+    "static/css/main.f1595baf.chunk.css.map": "/InterviewWell/static/css/main.f1595baf.chunk.css.map",
+    "static/js/2.bfd517d8.chunk.js.LICENSE.txt": "/InterviewWell/static/js/2.bfd517d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fcf61d8.js",
+    "static/js/2.bfd517d8.chunk.js",
+    "static/css/main.f1595baf.chunk.css",
+    "static/js/main.acafd242.chunk.js"
+  ]
+}
